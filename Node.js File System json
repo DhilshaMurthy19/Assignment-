@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "posts": [
+      { "id": 1, "title": "Post 1 by Alice" },
+      { "id": 2, "title": "Post 2 by Alice" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "posts": [
+      { "id": 1, "title": "Post 1 by Bob" },
+      { "id": 2, "title": "Post 2 by Bob" },
+      { "id": 3, "title": "Post 3 by Bob" }
+    ]
+  }
+]
